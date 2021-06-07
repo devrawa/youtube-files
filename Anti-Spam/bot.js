@@ -27,4 +27,4 @@ client.on('message', msg => {
 })
 
 // replace 'YOUR_TOKEN_HERE' with your token 
-client.login(YOUR_TOKEN_HERE)
+client.login(Nzc5MDQ2MDUzODc3Nzc2NDI0.X7a1LQ.CoEQOe7T4QAi6XFT60Yr9DZoev4)
